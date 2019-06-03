@@ -3,7 +3,7 @@
 
 For Jerry the Alien his only his wish is to get home. After falling into a black hole, he has discovered the world mystery of whether items come back out of a balck hole. But Jerry is not concerned with the science and math of black holes, his only wish is to get back home and home is further than he thinks. Unaware of his surrounding he finds himself battling to stay alive in enemy Alien lands. Only 346 years old, young Jerry is afraid to take this battle on alone. Can you help jerry get to his house? You will have to navigate Jerry through some of the scariest parts of outerspace but with your help there is hope that Jerry could make it home safely!
 
-# Instructions to Jerry's House
+# Instructions to help Jerry get home
 ## To begin playing press start to embark on Jerry's Journey
 ## main Goal of game: Get Jerry Home!
 
@@ -38,14 +38,6 @@ Jerry is 4 lightyears away. By the end of each level you will have traveled a wh
 
 # Get Jerry Come Home here below
 - click [download](https://github.com/ndicks7864/Alien_Run/releases/download/v0.8.0/Alein.Run.exe)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ndicks7864/Alien_Run/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Created By Nia D. 
+- On 6/3/19
