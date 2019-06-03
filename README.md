@@ -18,7 +18,7 @@ Jerry has 3 hearts and loses strength when in contact with enemy aliens. These e
 While you love helping Jerry, this trip is costing you a lot of time and effort away from your family, therefore, Jerry has made a deal with you. Jerry agrees to give you the golden stars he collects along the way. Each is worth 40 alien dings. Back home that will score you something real nice for your troubles. While on your journey help Jerry Collect as many golden stars as you can.
 
 ### Jerry's Enemies
-Figthing enemy aliens is no easy job but there is a way! To kill the alien enemies jump on top fo thier heads. By jumping on top of the enemy aliens' heads you can safely escape the enmy and limit your chances of losing strength!
+Figthing enemy aliens is no easy job but there is a way! To kill the alien enemies jump on top fo thier heads. By jumping on top of the enemy aliens' heads you can safely escape the enemy and limit your chances of losing strength!
 
 ![game_screen](https://user-images.githubusercontent.com/31481528/58827043-19164780-8610-11e9-8a62-0e232c928f4d.PNG)
 
