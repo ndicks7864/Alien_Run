@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Alien Run
 
 You can use the [editor on GitHub](https://github.com/ndicks7864/Alien_Run/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
