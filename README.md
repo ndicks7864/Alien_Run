@@ -1,7 +1,7 @@
 # Jerry Come Home
-![game_screen_start](https://user-images.githubusercontent.com/31481528/58826701-431b3a00-860f-11e9-8cd6-3085db2a2fed.PNG)
+![game_screen_start](https://user-images.githubusercontent.com/31481528/58826969-ebc99980-860f-11e9-847f-199730a21b1b.PNG)
 
-For Jerry the Alien his only his wish is to get home. After falling into a black hole, he has discovered the world mystery of whether items come back out of a balck hole. But jerry is not concerned with the science and math of black holes, his only wish is to get back home and home is further than he thinks. Unaware of his surrounding he finds himself battling to stay alive in enemy Alien lands. Only 346 years old, young Jerry is afraid to take this battle on alone. Can you help jerry get to his house? You will have to navigate Jerry through some of the scariest parts of outerspace but with your help there is hope that Jerry could make it home safely!
+For Jerry the Alien his only his wish is to get home. After falling into a black hole, he has discovered the world mystery of whether items come back out of a balck hole. But Jerry is not concerned with the science and math of black holes, his only wish is to get back home and home is further than he thinks. Unaware of his surrounding he finds himself battling to stay alive in enemy Alien lands. Only 346 years old, young Jerry is afraid to take this battle on alone. Can you help jerry get to his house? You will have to navigate Jerry through some of the scariest parts of outerspace but with your help there is hope that Jerry could make it home safely!
 
 # Instructions to Jerry's House
 ## To begin playing press start to embark on Jerry's Journey
@@ -23,7 +23,7 @@ Figthing enemy Aliens is no easy job but the way to do it is to jump on top fo t
 ### Jerry's Fuel
 filler text
 
-![game_screen](https://user-images.githubusercontent.com/31481528/58826638-1ebf5d80-860f-11e9-966d-509265ba82f6.PNG)
+![game_screen](https://user-images.githubusercontent.com/31481528/58827043-19164780-8610-11e9-8a62-0e232c928f4d.PNG)
 
 ## Stages
 Jerry is 4 lightyears away. By the end of each level you will have traveled a whole lightyear! By the time you end level 4 you will reach Jerry's home!! But don't be fooled going into the next lightyear will be difficult. Each lightyear level gets harder as you go on.
