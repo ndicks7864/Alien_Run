@@ -5,7 +5,7 @@ For Jerry the Alien his only his wish is to get home. After falling into a black
 
 # Instructions to help Jerry get home
 ## To begin playing press start to embark on Jerry's Journey
-## main Goal of game: Get Jerry Home!
+## Main Goal of game: Get Jerry Home!
 
 ### Navagating Jerry
 - use left and right arrow keys to move Jerry left and right
