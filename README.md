@@ -1,7 +1,7 @@
 # Jerry Come Home
 ![game_screen_start](https://user-images.githubusercontent.com/31481528/58826969-ebc99980-860f-11e9-847f-199730a21b1b.PNG)
 
-For Jerry the Alien his only his wish is to get home. After falling into a black hole, he has discovered the world mystery of whether items come back out of a balck hole. But Jerry is not concerned with the science and math of black holes, his only wish is to get back home and home is further than he thinks. Unaware of his surrounding he finds himself battling to stay alive in enemy Alien lands. Only 346 years old, young Jerry is afraid to take this battle on alone. Can you help jerry get to his house? You will have to navigate Jerry through some of the scariest parts of outerspace but with your help there is hope that Jerry could make it home safely!
+Jerry the Alien has yet again become lost. After falling into a black hole, he has discovered the world mystery of whether or not items that go into black holes come back out again. But Jerry is not concerned with the science and math of black holes, his only wish is to get back home and home is further than he thinks. Unaware of his surrounding he finds himself battling to stay alive in enemy Alien lands. Only 346 years old, young Jerry is afraid to take this battle on alone. Can you help jerry get to his house? You will have to navigate Jerry through some of the scariest parts of outerspace but with your help there is hope that Jerry could make it home safely!
 
 # Instructions to help Jerry get home
 ## To begin playing press start to embark on Jerry's Journey
