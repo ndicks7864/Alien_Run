@@ -20,9 +20,6 @@ While you love helping Jerry, this trip is costing you a lot of time and effort 
 ### Jerry's Enemies
 Figthing enemy Aliens is no easy job but the way to do it is to jump on top fo there heads. By jumping on top of the enemy Aliens' heads you can limit your chances of losing strength.
 
-### Jerry's Fuel
-filler text
-
 ![game_screen](https://user-images.githubusercontent.com/31481528/58827043-19164780-8610-11e9-8a62-0e232c928f4d.PNG)
 
 ## Stages
