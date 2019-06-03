@@ -26,12 +26,16 @@ Figthing enemy Aliens is no easy job but the way to do it is to jump on top fo t
 Jerry is 4 lightyears away. By the end of each level you will have traveled a whole lightyear! By the time you end level 4 you will reach Jerry's home!! But don't be fooled going into the next lightyear will be difficult. Each lightyear level gets harder as you go on.
 
 ### Level 1: Balcruria
+- In this level, travel through the humid, damp purple Balcruia Tree Forest. Try not to run into any surprise creatures!
 
 ### Level 2: Monguturas
+- In this level, travel through the blue Mongutura Mountains. One of the coldest places in the galaxy.
 
 ### Level 3: The Dry-Kerlinds
+- In this level, travel through the hot and deadly desert known as the Dry-Kerlinds. Try to get through this on fast!
 
 ### Level 4: Jeruriah
+- The final strech, travel through the dark mysterious lands of Jeruriah to arrive at Jerry's home!!
 
 # Get Jerry Come Home here below
 - click [download](https://github.com/ndicks7864/Alien_Run/releases/download/v0.8.0/Alein.Run.exe)
