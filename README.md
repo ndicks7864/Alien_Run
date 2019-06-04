@@ -38,7 +38,7 @@ Jerry is 4 lightyears away from home. By the end of each level you will have tra
 - The final strech, travel through the dark mysterious lands of Jeruriah to arrive at Jerry's home!!
 
 # Get Jerry Come Home here below
-- click [download](https://github.com/ndicks7864/Alien_Run/releases/download/v1.0/Jerry.Come.Home.exe)
+- click [download](https://github.com/ndicks7864/Jerry_Come_Home/releases/download/v1.0/Jerry.Come.Home.exe)
 
 ### Created By Nia D. 
 - On 6/3/19
