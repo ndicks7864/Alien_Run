@@ -1,0 +1,101 @@
+{
+	"layout": {
+		"scale": 64,
+		"size": [48, 9],
+		"start": [1, 7],
+		"goal": [44, 3, 2, 5]
+	},
+
+	"physics": {
+		"gravity": 1.7,
+		"terminal_velocity": 36
+	},
+
+	"music": "assets/sounds/gary-come-home-instrumental.mp3",
+
+	"background": {
+		"color": [0, 0, 0],
+		"image1": "assets/images/backgrounds/tree_background.jpg",
+		"image2": "assets/images/backgrounds/blank.png",
+		"parallax_speed1": 0.6,
+		"parallax_speed2": 0.3
+	},
+
+	"tiles": {
+		"midground": [
+			[44.8, 4, "FlagTop"],
+			[44.8, 5, "FlagPole"],
+			[44.8, 6, "FlagPole"],
+			[44.8, 7, "FlagPole"]
+		],
+
+		"main": [
+			[1, 8, "PurplePlatform"],
+			[2, 8, "PurplePlatform"],
+			[3, 8, "PurplePlatform"],
+			[0, 8, "PurplePlatform"],
+			[4, 8, "PurplePlatform"],
+			[5, 8, "PurplePlatform"],
+			[6, 8, "PurplePlatform"],
+			[7, 8, "PurplePlatform"],
+			[17, 8, "PurplePlatform"],
+
+			[4, 5, "PurpleLeftEdge"],
+			[5, 5, "PurpleMiddle"],
+			[6, 5, "PurpleRightEdge"],
+
+			[8, 2, "PurpleLeftEdge"],
+			[9, 2, "PurpleMiddle"],
+			[10, 2, "PurpleRightEdge"],
+
+			[12, 6, "PurpleLeftEdge"],
+			[13, 6, "PurpleMiddle"],
+			[14,6, "PurpleRightEdge"],
+
+			[17, 7, "PurplePlatform"],
+
+			[21, 4, "PurpleLeftEdge"],
+			[22, 4, "PurpleMiddle"],
+			[23, 4, "PurpleMiddle"],
+			[24, 4, "PurpleMiddle"],
+			[25, 4, "PurpleRightEdge"],
+
+			[29, 6, "PurpleLeftEdge"],
+			[30, 6, "PurpleMiddle"] ,
+			[31, 6, "PurpleRightEdge"],
+
+			[34, 3, "PurpleLeftEdge"],
+			[35, 3, "PurpleMiddle"] ,
+			[36, 3, "PurpleMiddle"] ,
+			[37, 3, "PurpleRightEdge"],
+
+			[43, 8, "PurpleLeftEdge"],
+			[44, 8, "PurpleMiddle"],
+			[45, 8, "PurpleMiddle"],
+			[46, 8, "PurpleRightEdge"]
+		],
+
+		"foreground": [
+			[17, 6, "Plant"],
+			[24, 3, "Plant"],
+			[43, 7, "Plant"]
+		]
+	},
+
+	"items": [
+		[5, 4, "Star"],
+		[9, 1, "Star"],
+		[13, 5, "Soda"],
+		[23, 3, "Star"],
+		[30, 5, "Star"],
+		[35.4, 2, "Soda"]
+	],
+
+	"enemies": [
+		[5, 4, "BasicEnemy"],
+		[9, 1, "PlatformEnemy"],
+		[13, 5, "PlatformEnemy"],
+		[23, 3, "PlatformEnemy"],
+		[34, 3, "PlatformEnemy"]
+	]
+}

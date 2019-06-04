@@ -1,0 +1,141 @@
+{
+	"layout": {
+		"scale": 64,
+		"size": [48, 9],
+		"start": [1, 6],
+		"goal": [44, 3, 2, 5]
+	},
+
+	"physics": {
+		"gravity": 1.5,
+		"terminal_velocity": 36
+	},
+
+	"music": "assets/sounds/spongebob-music-fun.mp3",
+
+	"background": {
+		"color": [0, 0, 0],
+		"image1": "assets/images/backgrounds/cave_background1.png",
+		"image2": "assets/images/backgrounds/blank.png",
+		"parallax_speed1": 0.6,
+		"parallax_speed2": 0.3
+	},
+
+	"tiles": {
+		"midground": [
+			[44.8, 4, "FlagTop"],
+			[44.8, 5, "FlagPole"],
+			[44.8, 6, "FlagPole"],
+			[44.8, 7, "FlagPole"]
+		],
+
+		"main": [
+			[1, 8, "RedPlatform"],
+			[2, 8, "RedPlatform"],
+			[3, 8, "RedPlatform"],
+			[0, 8, "RedPlatform"],
+			[4, 8, "RedPlatform"],
+			[5, 8, "RedPlatform"],
+			[6, 8, "RedPlatform"],
+			[7, 8, "RedPlatform"],
+			[8, 8, "RedPlatform"],
+			[9, 8, "RedPlatform"],
+			[10, 8, "RedPlatform"],
+			[11, 8, "RedPlatform"],
+			[12, 8, "RedPlatform"],
+			[13, 8, "RedPlatform"],
+			[14, 8, "RedPlatform"],
+			[15, 8, "RedPlatform"],
+			[16, 8, "RedPlatform"],
+			[17, 8, "RedPlatform"],
+			[18, 8, "RedPlatform"],
+			[19, 8, "RedPlatform"],
+			[20, 8, "RedPlatform"],
+			[21, 8, "RedPlatform"],
+			[22, 8, "RedPlatform"],
+			[23, 8, "RedPlatform"],
+			[24, 8, "RedPlatform"],
+			[25, 8, "RedPlatform"],
+			[26, 8, "RedPlatform"],
+			[27, 8, "RedPlatform"],
+			[28, 8, "RedPlatform"],
+			[29, 8, "RedPlatform"],
+			[30, 8, "RedPlatform"],
+			[31, 8, "RedPlatform"],
+			[32, 8, "RedPlatform"],
+			[33, 8, "RedPlatform"],
+			[34, 8, "RedPlatform"],
+			[35, 8, "RedPlatform"],
+			[36, 8, "RedPlatform"],
+			[37, 8, "RedPlatform"],
+			[38, 8, "RedPlatform"],
+
+			[42, 8, "RedPlatform"],
+			[43, 8, "RedPlatform"],
+			[44, 8, "RedPlatform"],
+			[45, 8, "RedPlatform"],
+			[46, 8, "RedPlatform"],
+			[47, 8, "RedPlatform"],
+
+			[1, 6, "RedPlatform"],
+			[2, 6, "RedPlatform"],
+			[4, 6, "RedPlatform"],
+
+			[8, 3, "RedPlatform"],
+			[10, 3, "RedPlatform"],
+			[12, 3, "RedPlatform"],
+
+			[14, 4, "RedPlatform"],
+			[16, 3, "RedPlatform"],
+
+			[20, 5, "RedPlatform"],
+			[22, 6, "RedPlatform"],
+			[23, 5, "RedPlatform"],
+
+			[25, 3, "RedPlatform"],
+
+			[27, 6, "RedPlatform"],
+			[28, 5, "RedPlatform"],
+			[29, 3, "RedPlatform"],
+
+			[33, 4, "RedPlatform"],
+			[34, 4, "RedPlatform"],
+			[35, 4, "RedPlatform"]
+		],
+
+		"foreground": [
+			[12, 7, "RedPlant"],
+			[19, 7, "RedPlant"],
+			[34, 7, "RedPlant"]
+		]
+	},
+
+	"items": [
+		[10, 2, "Soda"],
+		[20, 4, "Star"],
+		[29, 5, "Soda"],
+		[34, 3, "Star"]
+	],
+
+	"enemies": [
+		[4, 2, "BasicEnemy"],
+		[6, 2, "BasicEnemy"],
+		[8, 7, "BasicEnemy"],
+		[10, 7, "BasicEnemy"],
+		[12, 7, "BasicEnemy"],
+		[14, 7, "BasicEnemy"],
+		[16, 7, "BasicEnemy"],
+		[18, 7, "BasicEnemy"],
+		[20, 7, "BasicEnemy"],
+		[22, 7, "BasicEnemy"],
+		[24, 7, "BasicEnemy"],
+		[26, 2, "BasicEnemy"],
+		[28, 2, "BasicEnemy"],
+		[30, 2, "BasicEnemy"],
+		[32, 2, "BasicEnemy"],
+		[34, 2, "BasicEnemy"],
+		[36, 2, "BasicEnemy"],
+		[38, 2, "BasicEnemy"],
+		[40, 2, "BasicEnemy"]
+	]
+}

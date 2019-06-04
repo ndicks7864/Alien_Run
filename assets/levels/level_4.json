@@ -1,0 +1,76 @@
+{
+	"layout": {
+		"scale": 64,
+		"size": [48, 9],
+		"start": [1, 7],
+		"goal": [44, 3, 2, 5]
+	},
+
+	"physics": {
+		"gravity": 0.95,
+		"terminal_velocity": 36
+	},
+
+	"music": "assets/sounds/the-best-day-ever.mp3",
+
+	"background": {
+		"color": [0, 0, 0],
+		"image1": "assets/images/backgrounds/planetblack_background.png",
+		"image2": "assets/images/backgrounds/blank.png",
+		"parallax_speed1": 0.6,
+		"parallax_speed2": 0.3
+	},
+
+	"tiles": {
+		"midground": [
+			[44, 7, "SpaceShip"]
+		],
+
+		"main": [
+			[1, 8, "BlackPlatform"],
+
+			[42, 8, "BlackLeftEdge"],
+			[43, 8, "BlackMiddle"],
+			[44, 8, "BlackMiddle"],
+			[45, 8, "BlackMiddle"],
+			[46, 8, "BlackRightEdge"],
+
+			[8, 6, "BlackLeftEdge"],
+			[9, 6, "BlackMiddle"],
+			[10, 6, "BlackMiddle"],
+			[11, 6, "BlackRightEdge"],
+
+			[19, 4, "BlackLeftEdge"],
+			[20, 4, "BlackRightEdge"],
+
+			[24, 3, "BlackLeftEdge"],
+			[25, 3, "BlackMiddle"],
+			[26, 3, "BlackRightEdge"],
+
+			[31, 5, "BlackLeftEdge"],
+			[32, 5, "BlackMiddle"],
+			[33, 5, "BlackMiddle"],
+			[34, 5, "BlackMiddle"],
+			[35, 5, "BlackRightEdge"]
+		],
+
+		"foreground": [
+			[9, 5, "BlackPlant"],
+			[19, 3, "BlackPlant"],
+			[32, 4, "BlackPlant"]
+		]
+	},
+
+	"items": [
+		[10, 2, "Soda"],
+		[20, 3, "Star"],
+		[33, 4, "Star"],
+		[42, 7, "Soda"]
+	],
+
+	"enemies": [
+		[10, 5, "PlatformEnemy"],
+		[25, 2, "PlatformEnemy"],
+		[32, 4, "PlatformEnemy"]
+	]
+}

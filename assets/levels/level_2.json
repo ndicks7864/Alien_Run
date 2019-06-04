@@ -1,0 +1,88 @@
+{
+	"layout": {
+		"scale": 64,
+		"size": [48, 9],
+		"start": [1, 1],
+		"goal": [44, 3, 2, 5]
+	},
+
+	"physics": {
+		"gravity": 1.3,
+		"terminal_velocity": 36
+	},
+
+	"music": "assets/sounds/spongebob-music-loop-de-loop.mp3",
+
+	"background": {
+		"color": [0, 0, 0],
+		"image1": "assets/images/backgrounds/blue_trees_background.jpg",
+		"image2": "assets/images/backgrounds/blank.png",
+		"parallax_speed1": 0.6,
+		"parallax_speed2": 0.3
+	},
+
+	"tiles": {
+		"midground": [
+			[44.8, 4, "FlagTop"],
+			[44.8, 5, "FlagPole"],
+			[44.8, 6, "FlagPole"],
+			[44.8, 7, "FlagPole"]
+		],
+
+		"main": [
+			[1, 2, "BlueLeftEdge"],
+			[2, 2, "BlueRightEdge"],
+
+			[8, 3, "BlueLeftEdge"],
+			[9, 3, "BlueMiddle"],
+			[10, 3, "BlueMiddle"],
+			[11, 3, "BlueMiddle"],
+			[12, 3, "BlueRightEdge"],
+
+			[15, 5, "BluePlatform"],
+
+			[20, 5, "BluePlatform"],
+			[20, 6, "BluePlatform"],
+			[20, 7, "BluePlatform"],
+			[20, 8, "BluePlatform"],
+
+			[27, 4, "BlueLeftEdge"],
+			[28, 4, "BlueMiddle"],
+			[29, 4, "BlueMiddle"],
+			[30, 4, "BlueRightEdge"],
+
+			[33, 2, "BlueLeftEdge"],
+			[34, 2, "BlueMiddle"],
+			[35, 2, "BlueRightEdge"],
+
+			[38, 3, "BluePlatform"],
+			[39, 4, "BluePlatform"],
+			[40, 5, "BluePlatform"],
+
+			[43, 8, "BlueLeftEdge"],
+			[44, 8, "BlueMiddle"],
+			[45, 8, "BlueMiddle"],
+			[46, 8, "BlueRightEdge"]
+		],
+
+		"foreground": [
+			[10, 2, "BluePlant"],
+			[20, 4, "BluePlant"],
+			[34, 1, "BluePlant"]
+		]
+	},
+
+	"items": [
+		[10, 2, "Star"],
+		[18.5, 2, "Soda"],
+		[29, 3, "Soda"],
+		[34, 1, "Star"]
+	],
+
+	"enemies": [
+		[11, 2, "PlatformEnemy"],
+		[18, 7, "PlatformEnemy"],
+		[29, 3, "PlatformEnemy"],
+		[34, 1, "PlatformEnemy"]
+	]
+}
